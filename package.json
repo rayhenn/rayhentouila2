@@ -16,6 +16,7 @@
     "@next/font": "^13.2.4",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@vercel/analytics": "^0.1.11",
+    "@vercel/speed-insights": "^1.0.1",
     "blobity": "^0.2.3",
     "eslint": "8.35.0",
     "eslint-config-next": "13.2.3",
