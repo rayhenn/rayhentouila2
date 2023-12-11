@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     title: "Rayhen Touila - Graphiste et Post-production",
     description:
       "Graphisme et post-production actuellement basé sur la côte d'azur. Concentré sur l'influence digital et la création de contenu sur internet, télétravail partout en france depuis Antibes.",
-    url: "https://www.victorwilliams.me/",
+    url: "https://www.rayhentouila.fr/",
     siteName: "www.victorwilliams.me",
     images: [
       {
