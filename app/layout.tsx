@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: "www.victorwilliams.me",
     images: [
       {
-        url: "https://github.com/rayhenn/rayhentouila2/blob/main/Sans-titre-1.png?raw=true",
+        url: "https://raw.githubusercontent.com/rayhenn/rayhentouila2/main/Sans-titre-1.png",
         width: 1200,
         height: 630,
         alt: "Rayhen Touila - Graphiste et Post-production",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     creator: "Rayhen Touila",
     creatorId: "1243720976552144897",
     images: [
-      "https://github.com/rayhenn/rayhentouila2/blob/main/Sans-titre-1.png?raw=true",
+      "https://raw.githubusercontent.com/rayhenn/rayhentouila2/main/Sans-titre-1.png",
     ],
   },
   robots: {
