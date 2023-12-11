@@ -21,32 +21,12 @@ export const devProjects = [
   },
   {
     id: 1,
-    name: "SkyWatch",
+    name: "Cicadas Gaming",
     description:
-      "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city.",
-    technologies: ["React", "CSS", "Chart.js"],
-    github: "https://github.com/victorcodess/weather-forecast-website",
-    image: require(".//../../Public/projects/skywatch-new.webp"),
-    available: true,
-  },
-  {
-    id: 2,
-    name: "Alpaca Image Generator",
-    description:
-      "An image generator website that allows users to generate, combine, and download images.",
-    technologies: ["React", "CSS", "Merge Images"],
-    github: "https://github.com/victorcodess/alpaca-image-generator",
-    image: require(".//../../Public/projects/alpaca-new.webp"),
-    available: true,
-  },
-  {
-    id: 3,
-    name: "Link Shortener",
-    description:
-      "A website that reduces the length of your URL using Bit.ly's API",
-    technologies: ["JavaScript", "CSS", "Bit.ly's API"],
-    github: "https://github.com/victorcodess/url-shortener",
-    image: require(".//../../Public/projects/shortener-new.webp"),
+      "Cicadas Gaming, leader de l'esport en région PACA, se distingue par sa convivialité et son ambition. Cette organisation s'engage à propulser la scène esportive locale vers le niveau mondial.",
+    technologies: ["Photoshop"],
+    github: "https://www.behance.net/gallery/186376451/Cicadas-Gaming-2023-Assets-Visuals?",
+    image: require(".//../../Public/projects/cicadasgaming.png"),
     available: true,
   },
   // {
