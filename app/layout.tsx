@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: "www.victorwilliams.me",
     images: [
       {
-        url: "https://github.com/rayhenn/rayhentouila2/blob/main/Sans-titre-1.png?raw=true",
+        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
         width: 1200,
         height: 630,
         alt: "Rayhen Touila - Graphiste et Post-production",
