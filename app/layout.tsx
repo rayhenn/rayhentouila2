@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     creator: "Rayhen Touila",
     creatorId: "1243720976552144897",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://github.com/rayhenn/rayhentouila2/blob/main/Sans-titre-1.png?raw=true",
     ],
   },
   robots: {
