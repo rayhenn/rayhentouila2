@@ -112,7 +112,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-          Axé sur la création de contenu destiné au web, projet se déroulant sur la Côte d'Azur ou en télétravail partout en France.
+          Axé sur la création de contenu destiné au web, projet se déroulant sur la Côte d&apos;Azur ou en télétravail partout en France.
           </p>
         </motion.div>
       </div>
