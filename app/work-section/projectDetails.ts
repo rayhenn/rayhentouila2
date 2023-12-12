@@ -21,6 +21,16 @@ export const devProjects = [
   },
   {
     id: 1,
+    name: "Ti'dej",
+    description:
+      "J'ai conçu un site web pour un restaurant de petit déjeuner, orienté exclusivement vers le Click & Collect et la livraison. Sans contraintes particulières, j'ai laissé libre cours à ma créativité pour offrir une expérience utilisateur optimale.",
+    technologies: ["Photoshop", "Figma"],
+    github: "https://www.behance.net/gallery/158366939/Webdesign-Ptit-dej",
+    image: require(".//../../Public/projects/Tidej.png"),
+    available: true,
+  },
+  {
+    id: 2,
     name: "Cicadas Gaming",
     description:
       "Cicadas Gaming, leader de l'esport en région PACA, se distingue par sa convivialité et son ambition. Cette organisation s'engage à propulser la scène esportive locale vers le niveau mondial.",

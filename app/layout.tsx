@@ -34,6 +34,9 @@ export const metadata: Metadata = {
     "cote d'azur",
     "PACA",
     "Content creation",
+    "Rayhen Touila",
+    "Rayhen",
+    "Touila",
   ],
   colorScheme: "dark",
   openGraph: {
