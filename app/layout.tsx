@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     description:
       "Graphisme et post-production actuellement basé sur la côte d'azur. Concentré sur l'influence digital et la création de contenu sur internet, télétravail partout en france depuis Antibes.",
     url: "https://www.rayhentouila.fr/",
-    siteName: "www.victorwilliams.me",
+    siteName: "www.rayhentouila.fr",
     images: [
       {
         url: "https://raw.githubusercontent.com/rayhenn/rayhentouila2/main/Sans-titre-1.png",
