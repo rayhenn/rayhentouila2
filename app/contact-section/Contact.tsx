@@ -95,6 +95,20 @@ const Contact = () => {
               />
             </Link>
             <Link
+              href="https://www.behance.net/rayhentouila"
+              target="_blank"
+              aria-label="View Behance Profile"
+            >
+              <AnimatedTitle
+                text={"BH"}
+                className={
+                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+            </Link>
+            <Link
               href="https://blog.victorwilliams.me/"
               target="_blank"
               aria-label="View Hashnode Profile"

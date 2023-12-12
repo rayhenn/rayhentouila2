@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://www.behance.net/rayhentouila"
+            href="https://drive.google.com/file/d/1fB-JIr1yiC0XgdvdN0QitjKGwfahW8Ev/view?usp=sharing"
             target="_blank"
             aria-label="View Resume"
           >
@@ -27,7 +27,7 @@ const Hero = () => {
               className="hidden rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block  md:text-[16px] lg:block"
               variants={bodyAnimation}
             >
-              Behance
+              Voir CV
             </motion.button>
           </Link>
         </div>
@@ -56,6 +56,19 @@ const Hero = () => {
               variants={bodyAnimation}
             >
               TW
+            </motion.p>
+          </Link>
+          <Link
+            href="https://www.behance.net/rayhentouila"
+            target="_blank"
+            aria-label="View LinkedIn Profile"
+          >
+            
+            <motion.p
+              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              variants={bodyAnimation}
+            >
+              BH
             </motion.p>
           </Link>
         </div>
