@@ -12,7 +12,7 @@ const About = () => {
       <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
         <AnimatedTitle
           text={
-            "POUR DES VISUELS SAISISSENTS, UN GRAPHISME ATTRAYANT, ET UN CONTENU QUI INTERPELLE."
+            "POUR DES VISUELS SAISISSANTS, UN GRAPHISME ATTRAYANT, ET UN CONTENU QUI INTERPELLE."
           }
           className={
             "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
@@ -25,12 +25,12 @@ const About = () => {
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AnimatedBody
               text={
-                "Ma passion réside dans la création de contenu qui m'inspire et inspire les autres. J'aime la diversité de la création sur internet, que ce soit le graphisme, le montage vidéo, le motion design et tout ce qui s'ensuit, surtout lorsqu'elles participent à résoudre des problèmes concrets et à avoir un impact positif sur leur Public."
+                "Ma passion réside dans la création de contenu qui m'inspire et inspire les autres. J'aime la diversité de la création sur internet, que ce soit le graphisme, le montage vidéo, le motion design et tout ce qui s'ensuit, surtout lorsqu'elles participent à résoudre des problèmes concrets et à avoir un impact positif sur leur public."
               }
             />
             <AnimatedBody
               text={
-                "Après un bon anime, une session de volley ou en chill devant le contenus de mes créateurs préférés, je garde toujours un oeil sur les dernières tendances. C'est comme ca que je m'aère l'esprit pour toujours rester au top !"
+                "Après un bon anime, une session de volley ou en détente devant le contenu de mes créateurs préférés, je garde toujours un œil sur les dernières tendances. C'est ainsi que je me détends l'esprit pour rester constamment au top !"
               }
             />
             <AnimatedBody
@@ -65,7 +65,7 @@ const About = () => {
         <div className="mt-10 flex flex-col md:-mt-0 lg:mt-28">
           <SongCarousel />
           <AnimatedBody
-            text="Quelques liens qui me ressemble si tu veux en apprendre plus sur moi :)"
+            text="QUELQUES LIENS QUI ME RESSEMBLENT SI TU VEUX EN APPRENDRE PLUS SUR MOI :)"
             className="absolute bottom-10 right-0 left-0 mx-auto w-[90%] text-center text-[14px] font-semibold uppercase text-[#e4ded7] sm:w-[500px] md:bottom-12 md:w-[550px] md:text-[16px] "
           />
         </div>
