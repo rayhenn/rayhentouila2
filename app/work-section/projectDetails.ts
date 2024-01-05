@@ -39,6 +39,16 @@ export const devProjects = [
     image: require(".//../../Public/projects/cicadasgaming.png"),
     available: true,
   },
+  {
+    id: 3,
+    name: "Motion Design For Brands",
+    description:
+      "Retrouvez un condensé de la plupart de mes projets réalisés sur After Effects : des projets personnels, scolaires, commerciaux, tout y est. N'hésitez pas à me donner votre avis, j'espère que cela vous plaira !",
+    technologies: ["After Effect"],
+    github: "https://www.behance.net/gallery/188012625/Motion-Desgin-For-Brands",
+    image: require(".//../../Public/projects/mdfb.png"),
+    available: true,
+  },
   // {
   //   id: 4,
   //   name: "Carpooling Service",
