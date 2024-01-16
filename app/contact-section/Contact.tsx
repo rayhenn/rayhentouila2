@@ -44,7 +44,7 @@ const Contact = () => {
               }
             />
             <Link
-              href="mailto:rayhentouila.n@hotmail.com?subject=Travaillons%20ensemble%20!&amp;body=Salut%2C%20nous%20pensons%20avoir%20besoin%20de%20toi%20pour%20travailler/collaborer%20sur%20un%20projet...%20Contacte-nous%20dès%20que%20possible."
+              href="mailto:rayhencontact@gmail.com?subject=Travaillons%20ensemble%20!&amp;body=Salut%2C%20nous%20pensons%20avoir%20besoin%20de%20toi%20pour%20travailler/collaborer%20sur%20un%20projet...%20Contacte-nous%20dès%20que%20possible."
               target="_blank"
               aria-label="Écrit moi un mail"
               className="mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[170px] lg:mt-4"
