@@ -13,7 +13,7 @@ export const devProjects = [
     id: 5,
     name: "La Mission Locale Antipolis",
     description:
-      "J'ai réalisé plusieurs projets vidéos au sein de la Mission Locale Antipolis durant mon service civique, développant mes compétences en captation et montage. J'ai créé des vidéos pour des événements, des documentaires artistiques, et des projets de formation professionnelle, tout en bénéficiant d'une grande liberté créative. Cette expérience m'a permis de contribuer à la mission de l'organisation et de découvrir le secteur de l'insertion professionnelle des jeunes.",
+      "Durant mon service civique à la Mission Locale Antipolis, j'ai réalisé plusieurs projets vidéos, développant mes compétences en captation et montage. Ces projets, incluant des événements et des formations, m'ont permis de contribuer à l'insertion professionnelle des jeunes tout en explorant ma créativité.",
     technologies: ["Premiere pro", "After effect"],
     github: "https://www.behance.net/gallery/203993889/Projets-Audiovisuels-de-la-Mission-Locale-Antipolis?",
     image: require(".//../../Public/projects/mlbanniere.png"),
