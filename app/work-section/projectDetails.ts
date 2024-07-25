@@ -49,6 +49,16 @@ export const devProjects = [
     image: require(".//../../Public/projects/Tidej.png"),
     available: true,
   },
+  {
+    id: 4,
+    name: "La Mission Locale Antipolis",
+    description:
+      "J'ai conçu un site web pour un restaurant de petit déjeuner, orienté exclusivement vers le Click & Collect et la livraison. Sans contraintes particulières, j'ai laissé libre cours à ma créativité pour offrir une expérience utilisateur optimale.",
+    technologies: ["Photoshop", "Figma"],
+    github: "https://www.behance.net/gallery/203993889/Projets-Audiovisuels-de-la-Mission-Locale-Antipolis?",
+    image: require(".//../../Public/projects/Tidej.png"),
+    available: true,
+  },
   //   id: 4,
   //   name: "Carpooling Service",
   //   description:
