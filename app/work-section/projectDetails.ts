@@ -11,7 +11,7 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 5,
-    name: "La Mission Locale",
+    name: "Mission Locale",
     description:
       "Durant mon service civique, j'ai réalisé plusieurs projets vidéos, développant mes compétences en captation et montage. Ces projets, incluant des événements et des formations, m'ont permis de contribuer à l'insertion professionnelle des jeunes tout en explorant ma créativité.",
     technologies: ["Premiere pro", "After effect"],
