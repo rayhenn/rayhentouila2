@@ -11,9 +11,9 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 5,
-    name: "La Mission Locale Antipolis",
+    name: "La Mission Locale",
     description:
-      "Durant mon service civique à la Mission Locale Antipolis, j'ai réalisé plusieurs projets vidéos, développant mes compétences en captation et montage. Ces projets, incluant des événements et des formations, m'ont permis de contribuer à l'insertion professionnelle des jeunes tout en explorant ma créativité.",
+      "Durant mon service civique, j'ai réalisé plusieurs projets vidéos, développant mes compétences en captation et montage. Ces projets, incluant des événements et des formations, m'ont permis de contribuer à l'insertion professionnelle des jeunes tout en explorant ma créativité.",
     technologies: ["Premiere pro", "After effect"],
     github: "https://www.behance.net/gallery/203993889/Projets-Audiovisuels-de-la-Mission-Locale-Antipolis?",
     image: require(".//../../Public/projects/mlbanniere.png"),
