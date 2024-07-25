@@ -11,16 +11,6 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
-    name: "La Mission Locale Antipolis",
-    description:
-      "J'ai conçu un site web pour un restaurant de petit déjeuner, orienté exclusivement vers le Click & Collect et la livraison. Sans contraintes particulières, j'ai laissé libre cours à ma créativité pour offrir une expérience utilisateur optimale.",
-    technologies: ["Photoshop", "Figma"],
-    github: "https://www.behance.net/gallery/203993889/Projets-Audiovisuels-de-la-Mission-Locale-Antipolis?",
-    image: require(".//../../Public/projects/Tidej.png"),
-    available: true,
-  },
-  {
-    id: 1,
     name: "Cicadas Gaming",
     description:
       "Cicadas Gaming, leader de l'esport en région PACA, se distingue par sa convivialité et son ambition. Cette organisation s'engage à propulser la scène esportive locale vers le niveau mondial.",
@@ -30,7 +20,7 @@ export const devProjects = [
     available: true,
   },
   {
-    id: 2,
+    id: 1,
     name: "Motion Design For Brands",
     description:
       "Retrouvez un condensé de la plupart de mes projets réalisés sur After Effects : des projets personnels, scolaires, commerciaux, tout y est. N'hésitez pas à me donner votre avis, j'espère que cela vous plaira !",
@@ -40,7 +30,7 @@ export const devProjects = [
     available: true,
   },
   {
-    id: 3,
+    id: 2,
     name: "Overlay Twitch",
     description:
       "Les overlays Twitch personnalisent chaque diffusion en direct, agissant comme une signature visuelle distinctive. En superposant des éléments graphiques, ils vont au-delà de l'esthétique pour offrir une expérience immersive, affichant des données essentielles telles que les abonnés, les donateurs et des animations pour captiver les spectateurs.",
@@ -50,7 +40,7 @@ export const devProjects = [
     available: true,
   },
   {
-    id: 4,
+    id: 3,
     name: "Ti'dej",
     description:
       "J'ai conçu un site web pour un restaurant de petit déjeuner, orienté exclusivement vers le Click & Collect et la livraison. Sans contraintes particulières, j'ai laissé libre cours à ma créativité pour offrir une expérience utilisateur optimale.",
@@ -59,7 +49,16 @@ export const devProjects = [
     image: require(".//../../Public/projects/Tidej.png"),
     available: true,
   },
-
+  {
+    id: 4,
+    name: "La Mission Locale Antipolis",
+    description:
+      "J'ai conçu un site web pour un restaurant de petit déjeuner, orienté exclusivement vers le Click & Collect et la livraison. Sans contraintes particulières, j'ai laissé libre cours à ma créativité pour offrir une expérience utilisateur optimale.",
+    technologies: ["Photoshop", "Figma"],
+    github: "https://www.behance.net/gallery/203993889/Projets-Audiovisuels-de-la-Mission-Locale-Antipolis?",
+    image: require(".//../../Public/projects/Tidej.png"),
+    available: true,
+  },
   //   id: 4,
   //   name: "Carpooling Service",
   //   description:
