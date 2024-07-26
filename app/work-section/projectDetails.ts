@@ -10,6 +10,16 @@ export type ProjectProps = {
 
 export const devProjects = [
   {
+    id: 0,
+    name: "MLGS3",
+    description:
+      "Le Mission Locale Game Show 3 (MLGS3) a fusionné insertion professionnelle et jeux vidéo. J'ai réalisé un teaser, des interviews dynamiques et divers contenus pour captiver le public et mettre en valeur l'événement.",
+    technologies: ["Premiere Pro","After Effect"],
+    github: "https://www.behance.net/gallery/204138205/MLGS3-Innovation-et-Insertion-par-le-Jeu-Vido?",
+    image: require(".//../../Public/projects/bannieremlgs.png"),
+    available: true,
+  },
+  {
     id: 5,
     name: "Mission Locale",
     description:
