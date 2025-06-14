@@ -108,7 +108,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Graphisme et post-production, disponible dès maintenant.
+            Captation et post-production, disponible dès maintenant.
             {/* <Link
               href="https://crownbrandingagency.com/ "
               target="_blank"
@@ -125,7 +125,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-          Axé sur la création de contenu destiné au web, projet se déroulant sur la Côte d&apos;Azur ou en télétravail partout en France.
+          Axé sur la création de contenu destiné aux réseaux sociaux, projet se déroulant principalement sur la Côte d&apos;Azur ou partout en France.
           </p>
         </motion.div>
       </div>
