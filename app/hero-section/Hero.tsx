@@ -4,7 +4,7 @@ import { monaSans } from "../fonts/monaSans";
 import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
-import profile from "../../Public/profil2.png";
+import profile from "../../Public/image.jpg";
 
 const Hero = () => {
   return (
@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1fB-JIr1yiC0XgdvdN0QitjKGwfahW8Ev/view?usp=sharing"
+            href="https://drive.google.com/file/d/1WTPHk7EFSJI2ZnJPR8dw3CF3A-A9U03_/view?usp=sharing"
             target="_blank"
             aria-label="View Resume"
           >
@@ -46,7 +46,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://twitter.com/rayhennnn"
+            href="https://www.tiktok.com/@rayhennn"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
@@ -55,7 +55,7 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              TW
+              TT
             </motion.p>
           </Link>
           <Link
