@@ -90,7 +90,7 @@ const Hero = () => {
               src={profile}
               priority
               alt="Rayhen's headshot"
-              data-blobity-tooltip="Votre futur collaborateur"
+              data-blobity-tooltip="Ton futur monteur"
               data-blobity-invert="false"
               className=" w-[150px] rounded-[16px] grayscale hover:grayscale-0 md:w-[200px] md:rounded-[32px] lg:w-[245px]"
             />

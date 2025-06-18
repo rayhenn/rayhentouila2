@@ -11,6 +11,16 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
+    name: "Berserk",
+    description:
+      "Le projet Berserk : Entre Deux Mondes est une adaptation créative mêlant prises de vue réelles et animation inspirée du manga culte Berserk. J'ai participé à la réalisation comme assistant réalisateur et cadreur principal, de l'écriture au montage final.",
+    technologies: ["Davinci Resolve","After Effect"],
+    github: "https://www.behance.net/gallery/228418867/Fan-project-Berserk-Entre-deux-mondes",
+    image: require(".//../../Public/projects/Berserk.png"),
+    available: true,
+  },
+  {
+    id: 0,
     name: "MLGS3",
     description:
       "Le Mission Locale Game Show 3 (MLGS3) a fusionné insertion professionnelle et jeux vidéo. J'ai réalisé un teaser, des interviews dynamiques et divers contenus pour captiver le public et mettre en valeur l'événement.",
